@@ -137,6 +137,13 @@
   
 
   <link rel="stylesheet" href="html5/data/css/output.min.css" data-noprefix />
+<script>
+ if (!navigator.serviceWorker.controller) {
+     navigator.serviceWorker.register("sw.js").then(function(reg) {
+         console.log("Service worker has been registered for scope: " + reg.scope);
+     });
+ }
+</script>
 </body>
 <script src="html5/lib/scripts/ds-bootstrap.min.js"></script>
 </html>
