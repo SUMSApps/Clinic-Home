@@ -150,6 +150,13 @@
   
 
   <link rel="stylesheet" href="html5/data/css/output.min.css" data-noprefix />
+
+<script>
+if('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/service-worker.js');
+};
+</script>
+
 </body>
 <script src="html5/lib/scripts/bootstrapper.min.js"></script>
 </html>
