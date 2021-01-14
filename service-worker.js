@@ -1,6 +1,17 @@
 self.addEventListener('install', (e) => {
     console.log('[Service Worker] Install');
 });
+self.addEventListener('activate', (e) => {
+  e.waitUntil(
+    caches.keys().then((keyList) => {
+          return Promise.all(keyList.map((key) => {
+        if(key !== cacheName) {
+          return caches.delete(key);
+        }
+      }));
+    })
+  );
+});
 var cacheName = 'DCatH-v1';
 var appShellFiles = [
 'analytics-frame.html',
