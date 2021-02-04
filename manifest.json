@@ -7,7 +7,7 @@
   "display": "standalone",
   "orientation": "landscape",
   "serviceworker":
-	{"src":"sw.js","scope":"/"
+	{"src":"service-worker.js","scope":"/"
 	},
   "icons": [
     {
