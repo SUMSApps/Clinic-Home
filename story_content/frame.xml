@@ -1367,7 +1367,70 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6FHLrfEzFUp.6E3YRFWxxFV" displaytext="Notes" expand="false" type="slide" />
+        <slidelink slideid="_player.5fM1b2uakJJ" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5fM1b2uakJJ.6ggufFQFZgC" displaytext="MAIN MENU" expand="false" type="slide" />
+            <slidelink slideid="_player.5fM1b2uakJJ.6RDIfaGABE4" displaytext="MAIN MENU" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6cjcNkn6FOK" displaytext="What are lipos?" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6cjcNkn6FOK.6NIsD2UQJFt" displaytext="What are lipos?" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6YYpV31uQXN" displaytext="Common causes, side effects and examples" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6YYpV31uQXN.5yblSTW94lR" displaytext="Common causes, side effects and examples" expand="false" type="slide" />
+            <slidelink slideid="_player.6YYpV31uQXN.6GqXH6erCgX" displaytext="Common causes" expand="false" type="slide" />
+            <slidelink slideid="_player.6YYpV31uQXN.6hGpXb7gaN0" displaytext="Side effects of injecting into a lipo" expand="false" type="slide" />
+            <slidelink slideid="_player.6YYpV31uQXN.69zTP1Mkyg0" displaytext="Examples" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6OM9d2Vw2rI" displaytext="How to self examine" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6OM9d2Vw2rI.5qvOnvPk7IT" displaytext="How to self examine" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.65in7rv2LT9" displaytext="What to do if you find lipos?" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.65in7rv2LT9.5m5qTeyk7QP" displaytext="What to do if you find lipos?" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5oEtiyYRrQm" displaytext="How to avoid lipos" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5oEtiyYRrQm.5VmrMrErtdW" displaytext="How to avoid lipos" expand="false" type="slide" />
+            <slidelink slideid="_player.5oEtiyYRrQm.6b3h3J44eyA" displaytext="Braun – rotating injection sites" expand="false" type="slide" />
+            <slidelink slideid="_player.5oEtiyYRrQm.5yBGq47yk1T" displaytext="BD – the importance of injection site rotation" expand="false" type="slide" />
+            <slidelink slideid="_player.5oEtiyYRrQm.6av5RwyKrm8" displaytext="TREND UK guidelines" expand="false" type="slide" />
+            <slidelink slideid="_player.5oEtiyYRrQm.6Hu505KBya7" displaytext="How to get it right" expand="false" type="slide" />
+            <slidelink slideid="_player.5oEtiyYRrQm.6POAYq1o2Zh" displaytext="Correct 10 step injection process" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6c7Ksjs0ED1" displaytext="Scientific evidence" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6c7Ksjs0ED1.5lRUinK1oaj" displaytext="Scientific evidence" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6qMHLCizfhH" displaytext="Credits" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6qMHLCizfhH.5qYvWbmZV1Y" displaytext="Credits" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5aVFFNHglBl" displaytext="Share this resource" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5aVFFNHglBl.679aO0vlRYJ" displaytext="Share this resource" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.69GC6WIahr1" displaytext="Download as an app" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.69GC6WIahr1.6lcl26w631l" displaytext="Download as an app" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6FHLrfEzFUp" displaytext="Notes" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6FHLrfEzFUp.6E3YRFWxxFV" displaytext="Notes" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
