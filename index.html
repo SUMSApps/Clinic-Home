@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <!-- Created using Storyline 360 - http://www.articulate.com  -->
-  <!-- version: 3.47.23871.0 -->
+  <!-- version: 3.48.24159.0 -->
   <title>Diabetes Clinic@Home</title>
   <meta http-equiv="x-ua-compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, shrink-to-fit=no, minimal-ui" />
@@ -20,6 +20,21 @@
   ga('set', 'appname', 'Diabetes Clinic@Home');
 </script>
 <script async src="https://www.google-analytics.com/analytics.js"></script>
+<link rel="manifest" href="story_content/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="application-name" content="DC@H">
+<meta name="apple-mobile-web-app-title" content="DC@H">
+<meta name="msapplication-starturl" content="https://sumsapps.github.io/clinic-home/">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="apple-touch-icon" href="story_content/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="152x152" href="story_content/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="180x180" href="story_content/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="167x167" href="story_content/touch-icon-ipad-retina.png">
+<script src="story_content/story.js" type="text/javascript"></script>
+<script src="story_content/jspdf.js" type="text/javascript"></script>
+<script src="story_content/FileSaver.js" type="text/javascript"></script>
+<script src="story_content/jspdf.plugin.split_text_to_size.js" type="text/javascript"></script>
 </head>
 <body style="background: #FBFBFB" class="cs-HTML theme-unified">
   <!-- 360 -->
@@ -57,7 +72,7 @@
       publishSource: 'storyline',
       aid: 'auth0|5af418108dae635fd763feaf',
       cid: '61358f0a-1b04-402f-9cd4-a84cb2a509d4',
-      playerVersion: '3.47.23871.0',
+      playerVersion: '3.48.24159.0',
       maxIosVideoElements: 5,
 
       
@@ -139,6 +154,11 @@
   
 
   <link rel="stylesheet" href="html5/data/css/output.min.css" data-noprefix />
+<script>
+if('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/service-worker.js');
+};
+</script>
 </body>
 <script src="html5/lib/scripts/bootstrapper.min.js"></script>
 </html>
